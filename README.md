@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R060101
+- 👋 Hi, I’m Mochamad Rezha 
 - 👀 Nim 20220040193
 - 🌱 Alamat Jl. Wadas Raya No.123
 - 💞️ Phone 085780891975
