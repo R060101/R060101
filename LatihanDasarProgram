@@ -7,11 +7,11 @@ def run():
  
     print('================================')
     print('Biodata anda adalah: ')
-    print('nama: ' + nama)
-    print('alamat: ' + alamat)
-    print('ttl: ' + ttl)
-    print('pekerjaan: ' + pekerjaan)
-    print('status: ' + status)
+    print('nama: Mochamad Rezha ' + nama)
+    print('alamat: Jl Wadas Raya No123 Kota Depok' + alamat)
+    print('ttl:Depok,06 Januari 2001 ' + ttl)
+    print('pekerjaan: Pelajar/Mahasiswa ' + pekerjaan)
+    print('status:Lajang ' + status)
  
 if __name__ == '__main__':
     run()
