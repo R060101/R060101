@@ -1,0 +1,17 @@
+def run():
+    nama = input('input nama:Mochamad Rezha ')
+    alamat = input('input alamat:Jl Wadas Raya No123 Kota Depok ')
+    ttl = input('input tempat dan tanggal lahir:Depok, 06 Januari 2001 ')
+    pekerjaan = input('input pekerjaan:Pelajar/Mahasiswa ')
+    status = input('input status:Lajang ')
+ 
+    print('================================')
+    print('Biodata anda adalah: ')
+    print('nama: ' + nama)
+    print('alamat: ' + alamat)
+    print('ttl: ' + ttl)
+    print('pekerjaan: ' + pekerjaan)
+    print('status: ' + status)
+ 
+if __name__ == '__main__':
+    run()
